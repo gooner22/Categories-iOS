@@ -7,7 +7,6 @@
 //
 
 #import "NSArray+Utilities.h"
-#import "Logging.h"
 
 @implementation NSArray (Utilities)
 
